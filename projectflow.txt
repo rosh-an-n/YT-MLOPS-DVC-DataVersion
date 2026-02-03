@@ -1,0 +1,7 @@
+MLOps Day 4 - Data Versioning using DVC
+
+Project Flow:
+1. Create sample data using pandas
+2. Save data to CSV
+3. Initialize DVC for data versioning
+4. Track data changes across versions
